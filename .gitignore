@@ -1,0 +1,12 @@
+COCO2017/
+COCO2017_YOLO/
+coco128.v10i.yolov8/
+
+train/
+valid/
+test/
+
+.venv/
+__pycache__/
+runs/
+*.pt
